@@ -1,0 +1,36 @@
+:root {
+    --green-color: #3abdc1;
+    --text-color: #ccc;
+    --white-color: #fff;
+    --orange-color: #ffbd30;
+    --transtion-1: all .2s linear;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+@keyframes cuonxuong {
+    0% {
+        opacity: 0;
+        top: 10px
+    }
+    100% {
+        opacity: 1;
+        top: 40px;
+    }
+}
+
+
