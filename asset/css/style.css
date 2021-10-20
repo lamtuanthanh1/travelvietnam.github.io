@@ -1,6 +1,6 @@
 .app {
     overflow: hidden;
-    -webkit-tap-highlight-color: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .header {
@@ -436,6 +436,7 @@
     cursor: pointer;
     display: flex;
     justify-content: space-around;
+    user-select: none;
 }
 
 .tour__layout-heading {
@@ -519,6 +520,7 @@
 
 .footer {
     margin-top: 160px;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .footer__end {
@@ -539,6 +541,7 @@
     margin: 20px 0 0 0;
     transition: var(--transtion-1);
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .footer__label-sub-heading:hover,

@@ -244,7 +244,6 @@
     .content__label-img {
         width: 100%;
         height: 100%;
-        -webkit-tap-highlight-color: none;
     }
 
     .travel-tour {
@@ -319,14 +318,12 @@
 
     .content__lage-img {
         grid-column-gap: 5px;
-        -webkit-tap-highlight-color: none;
         user-select: none;
         pointer-events: none;
     }
 
     .content__label-img {
         width: 322px;
-        -webkit-tap-highlight-color: none;
         user-select: none;
         pointer-events: none;
     }
@@ -337,6 +334,7 @@
 
     .footer__text-heading {
         line-height: 3.2rem;
+        
     }
 
     .introduce-section__label-img {
