@@ -482,7 +482,7 @@
         margin: 31px 5px 0 5px;
         text-align: justify;
         line-height: 2.2rem;
-        width: 360px;
+        width: 355px;
     }
 
     .introduce-section_list-item {
@@ -530,6 +530,4 @@
     .footer {
         padding: 0 50px;
     }
-
-    
 }

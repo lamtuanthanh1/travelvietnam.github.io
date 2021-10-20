@@ -622,7 +622,7 @@
 }
 
 .footer__content-list-input {
-    line-height: 50px;
+    /* line-height: 50px; */
     border: none;
     outline: none;
     padding: 0 0 0 10px;
